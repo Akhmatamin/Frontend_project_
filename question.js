@@ -46,7 +46,7 @@ let questions = [
     {
         numb: 5,
         question: " In which city is the International Ala-Too University located?",
-        answer: "book",
+        answer: "Bishkek",
         options: [
             "Osh",
             "Karakol",
