@@ -1,57 +1,57 @@
 let questions = [
     {
         numb: 1,
-        question: "What does HTML stand for?",
-        answer: "D. Every one knows it",
+        question: "When was AIU founded?",
+        answer: "D. 1996",
         options: [
-            "A. I dont know",
-            "B. You know it",
-            "C. Who knows it ?",
-            "D. Every one knows it",
+            "A. 1991",
+            "B. 1998",
+            "C. 2000",
+            "D. 1996",
         ]
     },
     {
         numb: 2,
-        question: "who are you?",
-        answer: "person",
+        question: "What is the primary language of instruction at the university?",
+        answer: "English",
         options: [
-            "person",
-            "animal",
-            "sheet",
-            "cat",
+            "Russian",
+            "Kyrgyz",
+            "English",
+            "Turkish",
         ]
     },
     {
         numb: 3,
-        question: "where are you from?",
-        answer: "bishkek",
+        question: "Which of the following faculties does NOT exist at the university?",
+        answer: "Aerospace Engineering",
         options: [
-            "London",
-            "parij",
-            "tokyo",
-            "bishkek",
+            "Engineering and Informatics",
+            "Economics and Management",
+            "Aerospace Engineering",
+            "Humanities",
         ]
     },
     {
         numb: 4,
-        question: "what is your name?",
-        answer: "yo",
+        question: "Which international exchange program is the university a part of?",
+        answer: "Erasmus+",
         options: [
-            "nnljchldj",
-            "fjldf",
-            "yo",
-            "fdfkjl",
+            "Fulbright",
+            "Erasmus+",
+            "Chevening",
+            "DAAD",
         ]
     },
     {
         numb: 5,
-        question: "what is it?",
+        question: " In which city is the International Ala-Too University located?",
         answer: "book",
         options: [
-            "book",
-            "phone",
-            "man",
-            "bear",
+            "Osh",
+            "Karakol",
+            "Bishkek",
+            "Tokmok",
         ]
     }
 ];
